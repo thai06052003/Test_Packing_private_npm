@@ -1,0 +1,17 @@
+{
+  "name": "@swood/swood-style-core",
+  "version": "1.0.0",
+  "description": "Base UI Stylesheet for OOD and SWOOD Systems",
+  "main": "dist/sw-style.min.css",
+  "style": "dist/sw-style.css",
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "npx clean-css-cli -o dist/sw-style.min.css dist/sw-style.css"
+  },
+  "keywords": ["swood", "ood", "css", "base-ui"],
+  "author": "Dinh Xuan Thai",
+  "license": "UNLICENSED",
+  "private": true
+}

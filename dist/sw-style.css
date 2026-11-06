@@ -1,0 +1,9 @@
+.color,
+.color:hover,
+.color:focus
+{
+  color: red !important;
+  background-color: yellow !important;
+  border-color: green;
+  font-size: 1px !important;
+}
