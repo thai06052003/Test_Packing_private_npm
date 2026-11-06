@@ -1,5 +1,5 @@
 {
-  "name": "@swood/swood-style-core",
+  "name": "swood-style-core",
   "version": "1.0.0",
   "description": "Base UI Stylesheet for OOD and SWOOD Systems",
   "main": "dist/sw-style.min.css",
